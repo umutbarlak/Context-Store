@@ -1,0 +1,24 @@
+body {
+  color: rgba(255, 255, 255, 0.87) !important;
+  background: #242424 !important;
+}
+
+@media (max-width: 767px) {
+  .basket-info {
+    padding: 5px;
+    border-top: 1px solid rgba(255, 255, 255, 0.87);
+    gap: 8px !important;
+  }
+}
+
+@media (max-width: 500px) {
+  .basket-info div {
+    gap: 8px !important;
+  }
+  .basket-card-wrapper span {
+    font-size: 15px !important;
+  }
+  .basket-card-wrapper h3 {
+    font-size: 20px !important;
+  }
+}
