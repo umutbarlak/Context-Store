@@ -8,12 +8,16 @@ Projede kullanıdığımız özellikler;
 
 - Component oluşturma
 
--
+- Axios İstekleri
+
+- React Router Dom
+
+- Bootstrap Stillendirme
 
 <h2>Kullanılan Diller</h2>
 
-Bu projede HTML ve CSS kullanılmıştır
+Bu projede React kullanılmıştır
 
 <h2>Ekran Videosu</h2>
 
-![](udemig-course.gif)
+![](context-store.gif)
