@@ -1,9 +1,19 @@
-# React + Vite
+<h1>Context Store</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje Context yapısının kullanıldığı bir Store projesidir.
 
-Currently, two official plugins are available:
+Projede kullanıdığımız özellikler;
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Context-Store
+- Context yapısı
+
+- Component oluşturma
+
+-
+
+<h2>Kullanılan Diller</h2>
+
+Bu projede HTML ve CSS kullanılmıştır
+
+<h2>Ekran Videosu</h2>
+
+![](udemig-course.gif)
